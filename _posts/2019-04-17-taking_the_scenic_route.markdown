@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Taking the Scenic Route"
-date:       2019-04-17 05:27:09 +0000
+date:       2019-04-17 01:27:10 -0400
 permalink:  taking_the_scenic_route
 ---
 
@@ -26,7 +26,7 @@ So then, naturally, I decided to become an actor.  Let someone else make the sit
 
 ![](https://media.giphy.com/media/l2JefKf4dbJi1YCIg/giphy.gif)
 
-But the thing about acting is the income isn't always consistent.  I found myself always having to take other kinds of work to supplement acting income.   I taught sculpture and comic book art, worked at an ice factory, temped as a security guard, and finally settled on bartending as a steady gig.  Bartending allowed me the flexibility to audition and take work as it came.  Every now and then I would think designing web sites but was too intimidated about how much time had past since I had done it.  So I kept bartending. 
+But the thing about acting is the income isn't always consistent.  I found myself always having to take other kinds of work to supplement acting.   I taught sculpture and comic book art, worked at an ice factory, temped as a security guard, and finally settled on bartending as my regular gig.  Bartending allowed me the flexibility to audition and take work as it came. 
 
 But bartending is not easy.  The physical nature of the job is intense and the hospitality industry as a whole can by trying, but for me, one of the most difficult parts of bartending is that I'm not really that interested in it.  It's just...a job.  I decided this year that my brain deserves better.
 

@@ -14,15 +14,15 @@ I've always loved computers.  As a kid, I would steal my Dad's copy of *Windows 
 
 ![](https://media.giphy.com/media/3dq1QIQuGxK24Q50wd/giphy.gif)
 
-One day my Dad came home and told me the company he worked for "wanted to be on the World Wide Web" and wondered if knew how to do something like that.  He gave me a copy of "*HTML for Dummies*" and offered me $50 if I could do it.  I had never been so motivated in my life.    
+One day my Dad came home and told me the company he worked for "wanted to be on the World Wide Web" and wondered if I knew how to do something like that.  He gave me a copy of "*HTML for Dummies*" and offered me $50 if I could do it.  I had never been so motivated in my life.    
 
 Making that first website for my Dad was incredible.  It felt like the perfect combination of left and right brain.  It didn't look like much, but something I had created was there for the world to see.  Not soon after, someone else asked if I could make a site for their company.  And then someone else asked.  And someone else.  All of the sudden I had my very own **side-hustle**.
 
 ![](https://media.giphy.com/media/1ldHRxMBsf3IA/giphy.gif)
 
-As the internet evolved and things started MOVING on the page, I became fascinated with the interactive animation I was seeing on certain sites.  I wanted to learn how to make my sites look and behave just like that.  It was just...cool.  This led to an obsession with Macromedia Flash and my own personal contribution to the worst of the early 2000's internet.  I abandoned mostly all code for the fun and ease of designing with Flash.  Eventually, all of my clients realized their sites weren't viewable on devices that aren't running Flash and just like that, my budding website empire crumbles within the year.  Having put all my eggs in the Macromedia basket, I felt like it was the end of the road for my web design career.
+As the internet evolved and things started MOVING AROUND on the page, I became fascinated with the interactive animation I was seeing.  I wanted to learn how to make my sites look and behave just like that.  It was just...cool.  This led to an obsession with Macromedia Flash and my own personal contribution to the worst of the early 2000's internet.  I abandoned mostly all code for the fun and ease of designing with Flash.  Eventually, all of my clients realized their sites weren't viewable on devices that aren't running Flash and just like that, my budding website empire crumbles within the year.  Having put all my eggs in the Macromedia basket, I felt like it was the end of the road for my web design career.
 
-So then, naturally, I decided to become an actor.  Let someone else make the sites!  I studied theater, moved to London, studied theater some more and then moved to New York City.  Oddly enough, some people hired me.  
+So then, naturally, I decided to become an actor.  Let someone else make the sites!  I studied theater and then moved to New York City.  Oddly enough, some people hired me.  
 
 ![](https://media.giphy.com/media/l2JefKf4dbJi1YCIg/giphy.gif)
 

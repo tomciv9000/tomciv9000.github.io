@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Who's Damn Toy Is This?"
+title:      "Who's Damn Toy Is This : My Sinatra Portfolio Project. "
 date:       2019-10-27 11:11:39 -0400
 permalink:  whos_damn_toy_is_this
 ---

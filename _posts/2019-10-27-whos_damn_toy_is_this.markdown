@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Who's Damn Toy Is This?"
-date:       2019-10-27 15:11:38 +0000
+date:       2019-10-27 11:11:39 -0400
 permalink:  whos_damn_toy_is_this
 ---
 
@@ -24,7 +24,7 @@ For reference, here are the requirements of the project:
 
 Before typing any code whatsoever, I thought it would be helpful to diagram  my model relationships.  I created a [gliffy](https://www.gliffy.com/) account and attempted to draw the relationships in a similar fashion to what I've seen on some of the codealongs, but all my diagrams ended up looking like poorly drawn stick-houses and were not helpful in the least.  So I went with the tried-and-true method of ripping a piece of paper out of my notebook and grabbing a nearby sharpie.
 
-![Probably ends up in the Smithsonian ](https://photos.app.goo.gl/Jt5Ri4dnN1Kaojt79)
+![Probably ends up in the Smithsonian ](https://imgur.com/9JIWFSm)
 
 Here we are.
 

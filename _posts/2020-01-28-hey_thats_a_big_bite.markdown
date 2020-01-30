@@ -7,7 +7,7 @@ permalink:  hey_thats_a_big_bite
 
 ## Reflections on the Rails Portfolio Project
 
-My daughter is almost two and one of her favorite things to do is see how much food she can fit into her mouth at one time.  She will take a fistful of sweet potatoes big enough for a Paul Bunyan type and try to eat it as if it was a normal bite. At almost every meal I find myself saying, "**Hey...that's a big bite.**"  I want her to only take what she can handle, not overreach for these gargantuan 
+My daughter is almost two and one of her favorite things to do is see how much food she can fit into her mouth at one time.  She will take a fistful of sweet potatoes big enough for a Paul Bunyan type and try to eat it as if it was a normal bite. At almost every meal I find myself saying, "**Hey...that's a big bite.**"  I want her to only take what she can handle, not overreach for these gargantuan chunks.
 
 Reading through the project description, one line in particular stood out to me: “make no little plans.”  Before sitting down to begin this project, I set out a goal to stretch myself beyond what I had learned through the curriculum.  I didn’t want to just meet the requirements, I wanted to build something that went far beyond them.  While I wouldn’t change anything about this learning experience, I can say, without exaggeration, that this was one of the most difficult tasks I’ve ever set out for myself...and I have a toddler.
 

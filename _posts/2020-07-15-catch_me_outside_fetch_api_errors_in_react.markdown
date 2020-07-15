@@ -78,13 +78,13 @@ componentDidMount() {
           });
         }
       )
-  }
+  }	
 ```
+	
 	
 Simple and clean, right?  If you are dead-set on using "catch", there are still ways to handle errors that don't let 404's and the like slip through the cracks.  Check this out:
 
-
-	```
+```
 	fetch(url)
     .then(function(response) {
         if (!response.ok) {
@@ -95,8 +95,8 @@ Simple and clean, right?  If you are dead-set on using "catch", there are still 
         console.log("ok");
     }).catch(function(error) {
         console.log(error);
-    });
-		```
+    });	
+```
 		
 In the above snippet, we are evaluating our response's 'ok' boolean value.  Since errors "ok" evalutate to false, once we have a false value we immediately throw an error with the statusText from the response.  Now our thrown error will trigger the catch block instead of missing it completely.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Catch Me Outside : *Fetch API Errors in React*"
-date:       2020-07-15 21:52:24 +0000
+title:      "Catch Me Outside : Fetch API Errors in React"
+date:       2020-07-15 17:52:25 -0400
 permalink:  catch_me_outside_fetch_api_errors_in_react
 ---
 

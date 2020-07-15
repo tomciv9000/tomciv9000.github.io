@@ -94,7 +94,7 @@ Simple and clean, right?  If you are dead-set on using "catch", there are still 
     });	
 ```
 		
-In the above snippet, we are evaluating our response's 'ok' boolean value.  Since errors "ok" evalutate to false, once we have a false value we immediately throw an error with the statusText from the response.  Now our thrown error will trigger the catch block instead of missing it completely.
+In the above snippet, we are evaluating our response's 'ok' boolean value.  Since an error will cause 'ok' to evalutate to false, once we have a false value we can immediately throw an error with the statusText from the response.  Now our thrown error will trigger the catch block instead of missing it completely.
 
 You could actually take it a step further and refactor the above strategy into a reusable method like so:
 

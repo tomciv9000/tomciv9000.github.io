@@ -79,10 +79,11 @@ componentDidMount() {
         }
       )
   }
-	```
+```
 	
 Simple and clean, right?  If you are dead-set on using "catch", there are still ways to handle errors that don't let 404's and the like slip through the cracks.  Check this out:
-	
+
+
 	```
 	fetch(url)
     .then(function(response) {

@@ -164,7 +164,7 @@ I went through all objects that could be created by the user and made sure that 
       redirect to "/toys/#{@toy.id}"
     end
   end
-	```
+```
 	
 After checking to see if the new object is valid, I am able to take  invalid objects and store their error messages into a  hash and then return those error messages into the view using the gem 'rack-flash'.  From my layout.erb :
 
@@ -176,7 +176,7 @@ After checking to see if the new object is valid, I am able to take  invalid obj
       <% end %>
     </div>
   <% end %>
-	```
+```
 	
 There is so much more I could cover with regards to what I learned completing this project.  Once again, I am filled with a sense of accomplishment and progress having navigated uncharted territory and come out the wiser.  
 	

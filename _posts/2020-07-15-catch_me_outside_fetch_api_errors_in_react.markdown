@@ -5,11 +5,7 @@ date:       2020-07-15 17:52:25 -0400
 permalink:  catch_me_outside_fetch_api_errors_in_react
 ---
 
-
-
-You love the Fetch API.  Like most of us, you grew up with Fetch API posters on your wall and at age 30 your arm is covered in a sleeve of Fetch API tattoos.  
-
-The Fetch API lets you send Ajax requests with ease, and yes, it impresses little kids at a birthday parties.  
+You love the Fetch API.  Like most of us, you grew up with Fetch API posters on your wall and by age 30 your arm is covered in a sleeve of Fetch API tattoos.  The Fetch API lets you send Ajax requests with ease, and yes, it impresses little kids at a birthday parties.  
 
 But there is a dark side...
 

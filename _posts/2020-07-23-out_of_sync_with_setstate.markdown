@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Out of Sync with setState"
-date:       2020-07-24 01:51:29 +0000
+date:       2020-07-23 21:51:30 -0400
 permalink:  out_of_sync_with_setstate
 ---
 
@@ -17,17 +17,17 @@ handleChange = event => {
   }
 ```
 
-But when I look at the console log, there appears to be a lag, for example if I was typing "Learn" the console would display the following:
+But when I look at the console log, there appears to be a lag.  For example, if I was typing "Learn" the console would display the following:
 
 **''** after typing L
 
-**'L'** after typing e
+**L** after typing e
 
-**'Le'** after typing a
+**Le** after typing a
 
-**'Lea'** after typing r
+**Lea** after typing r
 
-**'Lear'** after typing n
+**Lear** after typing n
 
 What is happening here?
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Check If N and Its Double Exist"
-date:       2020-07-29 22:18:34 +0000
+date:       2020-07-29 18:18:35 -0400
 permalink:  check_if_n_and_its_double_exist
 ---
 
@@ -64,9 +64,8 @@ const checkIfExist = arr => {
     }
 };
 ```
-Iterate through A tracking seen values. For each element x in A, return true if x / 2.0 or x * 2 has been seen. If no element x matches this criteria, return false.
 
-I then was able to iterate through the provided array, returning ``true`` if ``x / 2`` or ``x * 2`` is contained in my ``viewed`` array or  ``false`` if no element meets the criteria.  
+I then was able to iterate through the provided array, returning ``true`` if ``x / 2`` or ``x * 2`` is contained in ``viewed`` or  ``false`` if no element meets the criteria.  
 
 
 ```

@@ -6,13 +6,11 @@ permalink:  check_if_n_and_its_double_exist
 ---
 
 
-One of the knowledge gaps many Flatiron Graduates will encounter is basic data structure and algorithms.  I include myself in this group and have started working through daily coding exercises to improve.
-
-I thought it might be helpful to provide a walk-through of one solution for a classic Leetcode array search problem.  
+Some of the knowledge gaps bootcamp graduates encounter are data structures and algorithms, so I thought it might be helpful to provide a walk-through of a basic array search problem found on Leetcode.  
 
 ------------------------------
 
-Here's the problem:
+## The problem:
 
 Given an array **arr** of integers, check if there exists two integers **N** and **M** such that **N** is the double of **M** ( i.e. N = 2 * M).
 

@@ -1,11 +1,11 @@
 # Site settings
 author: Tom White
-title: From the Small Screen to the Even Smaller Screen
+title: Thomas White
 header-img: img/home-bg.png
 email: eugene.white@gmail.com
 copyright_name: Tom White
 description: > # this means to ignore newlines until "baseurl:"
-  A television actor learns to code
+  A Development Journal
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tomciv9000
